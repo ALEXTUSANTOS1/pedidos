@@ -6,7 +6,7 @@ Este é um projeto de aplicativo de pedidos desenvolvido em React Native.
 
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   https://github.com/ALEXTUSANTOS1/pedidos.git
 2. Navegue até o diretório do projeto:
     ```sh
     cd seu-repositorio
